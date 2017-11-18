@@ -32,4 +32,4 @@ Shows(<u>TID</u>, MID,showtime)
 Artists(ArtistID, name)
 
 ## "Entity Relationship Model"
-![Image of ERD](/Users/masterchung/Desktop/IS510 SQL/movies-tonight-parts-1-4-chungyta/MoviesTonightERD.png)
+![Image of ERD](MoviesTonightERD.png)
