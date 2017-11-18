@@ -5,7 +5,7 @@
 ### "1NF Conversion"
 DATASHEET(<u>TName</u>, Location, Phone, Mtitle,<u>Showtime</u>, Rating, <u>CCode</u>, <u>CName</u>)
 
-### '2NF Conversion'
+### "2NF Conversion"
 TName --> (Location, Phone)
 
 Mtitle --> (Rating)
@@ -32,10 +32,6 @@ Shows(TName, Mtitle, Showtime)
 
 
 ### "BCNF Conversion"
-ArtistID ---> Credits
-
-MID --> showtime
-
 
 Theaters(TID,TName,Location, Phone)
 
